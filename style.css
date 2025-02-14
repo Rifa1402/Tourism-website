@@ -1,0 +1,87 @@
+/* kerala tourism */
+  .logo-image .text{
+    position:absolute;
+    color:white;
+    left: 30px;
+    top: 80px;
+    font-family:cursive;
+  
+  }
+  /* text on home */
+   .text1{
+    background-image: linear-gradient(blue,green)  ;
+    text-align: justify;
+    color: white;
+    /* text-indent: 50px; */
+    line-height: 39px;
+    padding: 10px 10px;
+    word-spacing:2px;
+  
+
+
+  }
+ 
+  .h3{
+    font-family:fantasy;
+  }
+ 
+ /* Add a black background color to the top navigation */
+ .topnav {
+    background-color:darkblue;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float:left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 40px 50px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float:left;
+}
+
+.logo-image{
+    width: 100px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.carousel-inner{
+  
+    width:850px;
+    height: 900px;;
+  }
+
+
+.title{
+  background: rgb(176, 240, 230);
+  text-indent: 10px;
+}
+
+/* beach page text in image */
+.card-title{
+ text-align:center;
+
+}
+.backimg{
+  background-image: url(image\houseboat3.jpg);
+}
